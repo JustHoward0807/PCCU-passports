@@ -25,5 +25,5 @@ And this is after I erase all the blank space and invalid events, only capture t
 ![After](https://github.com/JustHoward0807/PCCU-passports/blob/main/Images/after.png)
 
 
-In the end, I upload all the data I need from the .csv file to firebase.
+In the end, it automatically upload all the data I need from the .csv file to firebase.
 ![Firebase](https://github.com/JustHoward0807/PCCU-passports/blob/main/Images/firebase.png)
