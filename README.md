@@ -1,6 +1,6 @@
 # PCCU-passports
 
- This is a web scraping project for my graduation work - GP(Graduation Points) 
+ This is a web scraping project for my graduation work - GP(Graduation Points)<br>
  Link: <em>https://github.com/JustHoward0807/GP<em>
 
  Tools: ***Python, BeautifulSoup and Chromedriver***
@@ -19,11 +19,11 @@ I use Python to capture the .xlsx file from the school website which I just prov
 This is before I sort the data out and as you can see how messy and it is not easy understanding for the first time people open this file.
 
 The data still contains invalid events or blank space coming out of nowhere which causes some misunderstanding to students.
-[link]
+![Before](https://github.com/JustHoward0807/PCCU-passports/blob/main/Images/Before.png)
 
 And this is after I erase all the blank space and invalid events, only capture the information I need for the graduation project.
-[link]
+![After](https://github.com/JustHoward0807/PCCU-passports/blob/main/Images/after.png)
 
 
 In the end, I upload all the data I need from the .csv file to firebase.
-[link]
+![Firebase](https://github.com/JustHoward0807/PCCU-passports/blob/main/Images/firebase.png)
