@@ -14,16 +14,17 @@ Find more information on our school website: <em>https://pass.pccu.edu.tw/bin/ho
 
 ## How it work
 
-I use Python to capture the .xlsx file from the school website which I just provided and get the data I want and output as a csv file format.
+I use Python to capture the .xlsx file from the school website which I just provided and get the data I want and output as a CSV file format.
+ 
+This is before I sort the data out and as you can see how messy, and it is not easy understanding for the first time people open this file.
+ 
+The data still contains invalid events or blank space coming out of nowhere, which causes some misunderstanding to students.
 
-This is before I sort the data out and as you can see how messy and it is not easy understanding for the first time people open this file.
-
-The data still contains invalid events or blank space coming out of nowhere which causes some misunderstanding to students.
 ![Before](https://github.com/JustHoward0807/PCCU-passports/blob/main/Images/Before.png)
 
 And this is after I erase all the blank space and invalid events, only capture the information I need for the graduation project.
 ![After](https://github.com/JustHoward0807/PCCU-passports/blob/main/Images/after.png)
 
-
-In the end, it automatically upload all the data I need from the .csv file to firebase.
+ 
+In the end, it automatically uploads all the data I need from the .csv file to Firebase.
 ![Firebase](https://github.com/JustHoward0807/PCCU-passports/blob/main/Images/firebase.png)
